@@ -89,9 +89,9 @@ object VarValLazyValDef extends App {
   var y = 15
   lazy val x = 50
   // cannot reassign lazy val
-  x = 75
+  //x = 75
 
-  var finalValue = y * x
+ // var finalValue = y * x
   println(s"Final value is: $finalValue")
 
 

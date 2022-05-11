@@ -35,13 +35,15 @@ object Functions extends App {
 println(getArea(7))
 
 
-/*  Functions & Method - Similarities
+/*             Functions & Method - Similarities
 Reusable unit of code
 Executed when invoked
 Can accept input arguments
 May return results
  */
  /*
+
+               Functions & Method - Differences
   Functions- A complete standalone object which is an instance of a class.
   Function - A Function class implement traits in Scala
   Function - A Function object has its own methods
